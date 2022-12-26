@@ -1,31 +1,24 @@
 
 > Open this page at [https://jbarkey0918.github.io/follow-line-black-line-for-microbit-cutebot/](https://jbarkey0918.github.io/follow-line-black-line-for-microbit-cutebot/)
 
-## Use as Extension
+#### insructions
 
-This repository can be added as an **extension** in MakeCode.
+press "B" to add 1% speed 
+press "A" to remove 1% speed 
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/jbarkey0918/follow-line-black-line-for-microbit-cutebot** and import
+press on the microbit symbol to mute the speaker
 
-## Edit this project ![Build status badge](https://github.com/jbarkey0918/follow-line-black-line-for-microbit-cutebot/workflows/MakeCode/badge.svg)
+press "A"+"B" or the button on the back to reset the program 
 
-To edit this repository in MakeCode.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/jbarkey0918/follow-line-black-line-for-microbit-cutebot** and click import
+#### other
 
-## Blocks preview
+if the micobit falls off the line it will stop and make a noise (mute by pressing on the microbit symbol)
 
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
+ultrasonic sensor is not needed but you can keep it on there it does not matter
 
-![A rendered view of the blocks](https://github.com/jbarkey0918/follow-line-black-line-for-microbit-cutebot/raw/master/.github/makecode/blocks.png)
 
-#### Metadata (used for search, rendering)
+#### IMPORTANT
 
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+if you modify and post or share my code please give me some credit on the part you did not modify but if you just share or dont modify my code please give me full credit
+
